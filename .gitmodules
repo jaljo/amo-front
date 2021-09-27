@@ -1,0 +1,3 @@
+[submodule "amo-front"]
+	path = amo-front
+	url = git@github.com:4m2n/amo-front.git
